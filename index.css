@@ -1,0 +1,48 @@
+body {
+  background-color: #faf7f7; 
+  color: #fff; 
+  font-family: "Courier New", Courier, monospace; 
+  text-align: center;
+  margin: 0; 
+  padding: 0;
+}
+
+
+h2, h3 {
+  color: rgb(0, 0, 0);
+}
+
+#box {
+  text-align: center;
+}
+
+#field table {
+  border-collapse: collapse;
+  font-size: 1.5em; 
+  font-weight: bold;
+  margin: 0 auto; 
+}
+
+#field table td {
+  background-color: #c3c3c3; 
+  width: 30px;
+  height: 30px;
+  border: 1px solid #000; 
+  text-align: center; 
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  background-color: #c3c3c3;
+  color: #000;
+  font-weight: bold;
+  border-radius: 20px; 
+  margin-top: 10px; 
+}
+label {
+  color: black;
+  display: block;
+  margin-bottom: 5px; 
+}
+
