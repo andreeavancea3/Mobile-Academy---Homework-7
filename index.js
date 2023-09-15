@@ -4,7 +4,7 @@ var components = {
   num_of_bombs : 55,
   bomb : '💣',
   alive : true,
-  colors : {1: 'pink', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'},
+  colors : {1: 'black', 2: 'green', 3: 'red', 4: 'purple', 5: 'maroon', 6: 'turquoise', 7: 'black', 8: 'grey'},
   bombProbability: 0.2,
   maxProbability: 0.8
 }
